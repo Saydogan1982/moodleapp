@@ -66,18 +66,7 @@
         "zh-tw": "正體中文"
     },
     "wsservice": "moodle_mobile_app",
-    "demo_sites": {
-        "student": {
-            "url": "https://school.moodledemo.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https://school.moodledemo.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    
     "defaultZoomLevel": "none",
     "zoomlevels": {
         "none": 100,
@@ -85,7 +74,7 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "https://medibeeb.eu/lms",
     "sitename": "",
     "multisitesdisplay": "",
     "sitefindersettings": {},
